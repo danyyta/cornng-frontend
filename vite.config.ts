@@ -9,7 +9,7 @@ import { baremuxPath } from "@mercuryworkshop/bare-mux/node";
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: "",
+    base: "cornng-frontend",
     plugins: [
         svelte(),
         tailwindcss(),
