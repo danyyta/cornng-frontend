@@ -1,5 +1,4 @@
 // corn.ts - Edit this file to customize the website
-
 export const bareProxyUrls = {
     auto: "Auto",
     custom: "Custom",
@@ -47,7 +46,7 @@ export const wispProxyUrls = {
     "wss://radiusproxy.app/wisp/": "Radius 1",
     "wss://radiusproxy.app/adblock/": "Radius 1 (Adblock)",
     "wss://radiusowski.site/wisp/": "Radius 2",
-    "wss://radiusowski.site/adblock/": "Radius 2 (Adblock)",    
+    "wss://radiusowski.site/adblock/": "Radius 2 (Adblock)",
 };
 
 export const splashText = [
@@ -59,4 +58,9 @@ export const splashText = [
     "Try the improved top-right navbar dropdown!",
     "Made with love by zeroxoneafour",
     "How's Ivey still alive bro",
+    "IDK why it's taking so long to load",
+    "Des Moines corn supremacy 🌽",
+    "Iowa unblocked vibes only",
+    "Danny's proxy fortress in DSM",
+    "Snow can't block corn power",
 ];
