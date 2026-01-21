@@ -9,7 +9,8 @@ import { baremuxPath } from "@mercuryworkshop/bare-mux/node";
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: "cornng-frontend",
+    base: '/cornng-frontend/',  // <-- This MUST be exactly your repo name with / at start and end
+
     plugins: [
         svelte(),
         tailwindcss(),
